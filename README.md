@@ -140,12 +140,12 @@ pip install google-play-scraper pandas numpy matplotlib seaborn scikit-learn nlt
 ## 👥 Tim
 
 Dibuat sebagai proyek  mata kuliah **Big Data**
+
 | Steffany Claussia Fernanda | 24083010026 | 
+
 | Laudya Meitaneia Sianturi  | 24083010089 | 
+
 | Alysha Khanza Dwi Avianti  | 24083010123 | 
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan akademik.
